@@ -1,0 +1,8 @@
+{
+  "name": "AAAParty",
+  "description": "A collection of Persian mini-games for 1-4 players featuring Jenga, Fishing, and Esm-o-Famil.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
